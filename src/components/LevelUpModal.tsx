@@ -11,8 +11,8 @@ export function LevelUpModal() {
             <div className={styles.container}>
                 <header>{level}</header>
 
-                <strong>Parabéns</strong>
-                <p>Você alcançou um novo level.</p>
+                <strong>Congrats</strong>
+                <p>You have reached a new level.</p>
 
                 <button type="button" onClick={closeLevelUpModal}>
                     <img src="/icons/close.svg" alt="Fechar modal"/>
