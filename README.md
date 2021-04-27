@@ -31,8 +31,8 @@ Move.it
 [//]: # (Add the features of your project here:)
 This app features all the latest tools in web development!
 
-- ⚛️ **Next.js** — A templating engine for JavaScript.
-- 💹 **Typescript** — Minimalist web framework for Node.js.
+- ⚛️ **Next.js** — Next.js is a React framework that allows SSR and the SSG.
+- 💹 **Typescript** — TypeScript is a superset of JavaScript developed by Microsoft that adds typing and some other features to the language.
 - 🍪 **JS-Cookie** — A simple, lightweight JavaScript API for handling cookies.
 
 ## Getting started
