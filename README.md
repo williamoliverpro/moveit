@@ -7,7 +7,7 @@
 Move.it
 </h1>
 
-<p align="center">Move.it is a pomodoro app that uses gamification techniques, which aims to improve the health and focus of people who are in front of the computer</p>
+<p align="center">Move.it is a pomodoro app that uses gamification techniques, which aims to improve the health and focus of people who are in front of the computer.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
