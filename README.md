@@ -7,7 +7,7 @@
 Move.it
 </h1>
 
-<p align="center">Move.it is a app created with framework Next.js</p>
+<p align="center">Move.it is a pomodoro app that uses gamification techniques, which aims to improve the health and focus of people who are in front of the computer</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -32,7 +32,7 @@ Move.it
 This app features all the latest tools in web development!
 
 - ⚛️ **Next.js** — Next.js is a React framework that allows SSR and the SSG.
-- 💹 **Typescript** — TypeScript is a superset of JavaScript developed by Microsoft that adds typing and some other features to the language.
+- 💹 **Typescript** — TypeScript is a superset of JavaScript that adds typing in the language.
 - 🍪 **JS-Cookie** — A simple, lightweight JavaScript API for handling cookies.
 
 ## Getting started
